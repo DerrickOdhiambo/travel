@@ -34,3 +34,26 @@ body{
   border-radius: 7px;
   text-transform: uppercase;
 }
+.container{
+  text-align: center;
+  font-family: sans-serif;
+}
+.popular{
+  display: flex;
+  padding: 0;
+  margin: 0;
+  border: 1px solid white;
+  background-color: whitesmoke;
+}
+.naks{
+  color: rgb(243, 139, 157);
+}
+.lamu{
+  color: rgb(0, 135, 212);
+}
+.mara{
+  color: rgb(202, 168, 122);
+}
+.tsavo{
+  color: green;
+}
