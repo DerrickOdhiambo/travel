@@ -13,5 +13,13 @@ body{
   background-attachment: fixed;
 }
 .info{
-  
+  padding-top: 12%;
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+.info h1{
+  text-transform: uppercase;
 }
