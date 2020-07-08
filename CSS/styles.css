@@ -4,7 +4,7 @@ body{
   background-color: rgb(216, 127, 25);
 }
 .welcome{
-  background-image: url(/images/travelling\ image.jpg);
+  background-image: url('../images/travelling\ image.jpg');
   width: 100%;
   height: 80vh;
   background-repeat: no-repeat;
